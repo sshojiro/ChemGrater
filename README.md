@@ -13,3 +13,9 @@ python>=3.6
 rdkit>=2018.03
 networkx>=2.1
 ```
+
+## Install
+
+```bash
+pip install git+https://github.com/sshojiro/ChemGrater.git
+```
